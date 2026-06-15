@@ -1,0 +1,374 @@
+SCENE
+Narrator Cold...
+Narrator Wet..
+Narrator The shivering cold bit into you, taking whatever heat your body could produce.
+Narrator Your clothing is long discarded.
+Narrator The slow stream of water gently caresses your face,
+Narrator your hair,
+Narrator your toes.
+Narrator Save for your left heel
+Narrator A tight grip around them stopping the river from ferrying you down the stream.
+Narrator You couldn't cry, your head fully submerged.
+Narrator Just as the freezing water is about to claim your consciousness you're pulled back into a warm embrace.
+Achilles Waaaaaa-
+Thetis Shhhhhh
+Narrator Your little form is pulled deeper into the embrace, the lingering feeling of cold leaving your tiny body.
+Thetis Do not despair my dear child, for there is no longer any mortal weapon which can cause you harm.
+Thetis My darling child, you will survive.
+Narrator You feel a warm sensation linger on your forehead along with cold drops of water on your skin.
+Choice
+Cry harder? (1)
+Grip your mother's hand? (2)
+1 Narrator You cry harder, your heart seized in a sorrow you don't yet understand.
+2 Narrator You feel your mother still, before you feel her tremble against you, silent tears falling on your cheeks.
+END blahhh
+SCENE
+Narrator: A young boy stands in front of you, similar age to you. His eyes glued to the floor and his hands hidden behind him.
+Choice
+Greet the boy (1)
+Turn to your father (2)
+1 Achilles Hello!
+1 Narrator You skip next to the boy, a bright smile on your lips, though it seems to scare the boy more.
+1 Achilles I'm Achilles, son of Peleus, may I have your name?
+1 Patroclus ...I-I'm Patroclus.
+1 Narrator Your father nods at you.
+2 Peleus Achilles, son of mine, be more hospitable, you wouldn't want the lord of thunder to see this! 
+2 Narrator Your father says with a chuckle, ruffling your hair.
+2 Peleus This is Patroclus!
+2 Patroclus ...
+2 Narrator The boy shuffles a little on the spot.
+END blahhh
+Peleus Patroclus will be living with us from now on, so treat him well Achilles.
+SCENE
+Narrator 3 Years Later. 
+Patroclus ...you're so amazing
+Achilles Hmm? What do you mean?
+Patroclus  You're so..strong, everyone looks up to you.
+Achilles Hmm.. everyone has to love the prince of the kingdom, especially one with a Goddess for a mother.
+Narrator The brown haired boy shook his head
+Patroclus That's not what I mean...
+Patroclus Even without your title you shine brighter than everyone.
+Achilles ...
+Patroclus I wish I could be more like you.
+Achilles ..?
+Achilles Why would you possibly want that ? Everyone wants me to be a hero, but how many heroes return home?
+Patroclus ...
+Achilles Wouldn't you rather grow old beside everyone you care about?!
+Patroclus ...my...father
+Patroclus ..he exiled me, I don't have anyone to grow old with.
+Achilles ....
+Achilles Yes you do!
+Patroclus ...?
+Achilles You have me! 
+Achilles I will grow old with you! I'll be by your side for the rest of your life! 
+Achilles Forget being a hero, I'd rather grow old with you! 
+Patroclus ...really? ..you mean that?
+Patroclus Don't you want to be a hero ?
+Achilles Nope, I never wanted to be a hero.
+Achilles Everyone just expects that from me because of my strength and lineage.
+Achilles I just want to leave quietly,
+Achilles And there is no one else I'd rather spend my time with other than you!
+Narrator Your body is pulled into a warm embrace.
+Narrator You melt into the hug.
+SCENE
+Narrator The blazing sun peaks through the canopy over you, Helios overlooking the earth beneath him.
+Narrator It had been a few days since you were sent off to train with Chiron the Cenetor, when your father explained he had trained previous heroes you had expected more sword training...not rummaging through the woods for medical herbs.
+Narrator Your hands weave through the foliage in search of Sideritis. Pushing back thoughts about a certain brown haired boy.
+??? *Ruffle ruffle*
+Narrator Your hands freeze, and you slowly turn. Keeping any sounds you make to a minimum, the last thing you want is to give whatever animal behind you your back.
+Narrator Your hands reach to grab the bow on your back.
+Achilles Come out !!
+??? ....
+Narrator A mop of brown hair slowly popped out of the bushes
+Patroclus ....hello
+Narrator After a second you break into a sprint and tackle the boy in front of you.
+Achilles Ha ha ha! 
+Patroclus Oof-
+Achilles You're here !! 
+Patroclus Hahaha- couldn't let you have all the fun right?
+Narrator You move your head away enough to see his face completely, a bright grin echoed your own as he laughed still laying on the dirt.
+Achilles ....
+Achilles *Hump*
+Patroclus Get off already- your heavy 
+Narrator His hands pushed against your chest, your eyes traced over the calloused fingers, a far cry from the scrawny fingers he had when you first met him.
+Achilles ...
+Narrator Your eyes glance back to Patroclus' face, he had been watching you, eyes burning in curiosity and something else. You were sure it was reflected in your own eyes.
+Narrator The sounds of the forest melted into the backdrop as your eyes drank him in.
+Choice 
+Kiss him? (1)
+Get off? (2)
+1 Narrator You close the distance between you and the boy, his eyes widening in surprise before shutting closed as your lips meet in a chaste kiss. 
+1 Narrator As you pull away your eyes meet, a grin forming on your lips.
+1 Narrator Neither of you needed to say a word, the kiss wasn't a surprise, it was an inevitability waiting to happen.
+1 Patroclus *Acho*
+1 Achilles ....
+1 Patroclus ...
+1 Achilles HAHHAHAHA- 
+1 Patroclus ...
+1 Achilles Come one, let's get going, it's warmer in the cave, I'll introduce you to Chiron too!
+2 Narrator You jump off him, clearing your head of your invading thoughts.
+2 Achilles ...I still need to finish collecting some herbs, wanna help ?
+2 Patroclus ...Of course I can help you.
+2 Narrator Patroclus quickly gets up from the ground and cleans himself off the dirt. 
+2 Narrator He moves next to you, your eyes scan him, it's been a week since you last saw him but it only hit you now how he's grown. He was fifteen, almost a man and his ...againg had not been unnoticed.
+2 Narrator You wonder for a second if he had noticed all the changes your own body had been doing over the years.
+2 Patroclus *ahem*
+2 Narrator Your eyes finally look back to meet Patroclus'. Patroclus' face was flushed red.
+2 Achilles ...er
+2 Narrator Before you get the chance to explain yourself Patroclus moves closer and lays a quick peak on your lips. Your eyes widen in shock.
+2 Patroclus A- Sorry- I don't know what-
+2 Narrator Your face breaks into a goofy smile cutting his blurted out apologies to a stop. After a moment Patroclus' nervous expression melts into a grin of his own.
+2 Achilles Come on, I'll show you the cave!
+END BLAH
+SCENE
+Narrator It hadn't even been a month since he arrived back at Phthia that the Trojan war had broken out. 
+Achilles Helen this..helen that..
+Narrator The silk dress lay over your skin easily, it was longer and softer from the togas and armour you're used to. 
+Narrator The dress was a soft gray, almost as light as Athena's eyes. 
+Narrator Looking in the mirror you see a young lady looking back at you. 
+Narrator It's been four months since you arrived at Skyros and you had donned the name Pyrrha.
+Narrator You head down to the banquet, the King was throwing another banquet for whatever reason, you didn't really care. 
+Narrator You glared at the wall next to you as if it was the cause of your sorrows. 
+Narrator Your head whips around at the sound of that oh so familiar voice. The man that had long stolen your heart. 
+Patroclus Have you seen a blonde young man? He should've arrived about 4 months ago?
+??? I don't know about any young man arriving here other than yourself, though I wouldn't mind a dance with you.
+Narrator You feel your heart squeeze as you watch him.
+Choice 
+Reveal yourself? (1)
+Turn away? (2)
+1 Narrator Before you can even take a second to think about what you're doing your legs move.
+1 Narrator You grab his wrist
+1 Patroclus -!
+1 Narrator You drag him outside, the little resistance you felt drops instantly as Patroclus realizes the strength in your grip.
+1 You discreetly pull him into your bedroom.
+1 Patroclus Miss, it's not appropriate for-
+1 Narrator You don't give him a chance to finish, taking his hand and placing it over your chest.
+1 Achilles See? Not a Miss.
+1 Patroclus Achilles -?
+2 Narrator You ignore the desperate need in your heart and turn your back. Choosing instead to focus on the drink in your hand.
+2 Narrator Your plan is only successful for maybe an hour before Patroclus approaches you.
+2 Patroclus Pardon me miss, but have you perhaps seen a blonde young man? He should've arrived about 4 months ago?
+2 Achilles ...
+2 Patroclus Do you know if someone of that description even passed by ?
+2 Patroclus His hair is..very similar to your own. 
+2 Achilles ..I don't know.
+2 Narrator The other boy doesn't look convinced.
+2 Patroclus Please. I need to find him.
+2 Achilles Why ?
+2 Patroclus He... he's my most dearest companion.
+2 Achilles ...he's safe.
+2 Patroclus I have to see him please, just tell him Patroclus is looking for him! I know he'll want to see me.. just please !
+2 Narrator He meets your eyes, you can see the dark circles under them. It hurts seeing him like this. 
+2 Narrator A flash of recognition passes his eyes.
+2 Patroclus ...his eyes are just like yours.
+2 Achilles ...
+2 Patroclus Achil-?
+2 Narrator You press a hand against his mouth, stopping him before the damage is done.
+2 Narrator Patroclus's eyes widen, recognizing the callous on your hand. 
+2 Narrator The hard callous pressed against his lips, a feeling he's quite familiar with.
+2 Patroclus ...may I please request your presence in another ..more private setting miss ?
+2 Achilles ..Pyrrha.
+2 Patroclus Miss Pyrrha.
+2 Narrator You lead the way to the courtyard, everyone was too busy enjoying the banquet to notice the two of you slip away.
+END BLAH
+Patroclus Why are you dressed as a woman?
+Achilles Mother thought this was the best way to avoid the war recruitment..
+Patroclus You could've told me!
+Achilles I WANTED TO- do you know how hard it was going months not talking to you!
+Patroclus ...
+Patroclus I had no idea where you were, for months.
+Narrator Tears well up in Patroclus's eyes
+Narrator Breaking the brief anger that welted up, you bring your hand up and wipe his tears.
+Patroclus I had to beg your father to even know you were here.
+Achilles ...I'm sorry, I wasn't allowed to say anything. Even father doesn't know my identity as Pyrrha
+Patroclus ...Don't go to the war.
+Achilles I don't plan to.
+SCENE
+Narrator A strange man lay upon the shores of Skyros, you knew what this meant. There was only so long you could hide from the war.
+Narrator Everyone knew you were the strongest, a king would be stupid to go to war without his strongest pawn.
+Narrator Another banquet was held, grander than the one last day. 
+Patroclus You seem stressed.
+Achilles Odysseus is a clever man.
+Patroclus ...I've known you for years and I couldn't see through your disguise. 
+Achilles I don't think a disguise will see me through this one.
+Patroclus ...
+Patroclus How about a dance ? It'll take your mind off things.
+Achilles Haha, yes, for you? Always.
+Narrator Dancing with Patroclus' almost took your mind off. It was unfair, everyone else in the room could dance away the night worry free, why was he stuck with this anxiety. 
+Narrator Why did he have to fight someone else's war ?
+Narrator The sound of a blaring bell rang through the hall, your muscles tensed up at the sound of an attack. 
+Narrator Before you could even process anything you grabbed the hidden xiphos (small blade) you kept with you. 
+Odyssus ...
+Achilles ...
+Patroclus ...
+Odysseus I see, an intricate disguise, Achilles, son of Peleus but unfortunately a normal young woman would not be carrying a blade with them. 
+Achilles ...I'm not-
+Odysseus Do not lie young Achilles, accept your defeat with grace.
+Achilles I will not go fight your war. I have no use for glory if I am dead.
+Odysseus Prince of Phthia, do remember your position.
+Achilles ...
+Achilles I...apologize for any disrespect, Odysseus, King of Ithaca.
+Odysseus Phthia enjoys a great reputation, having their prince fight in the war would only increase its reputation.
+Odysseus The alternative however...
+Odysseus Tomorrow, I will set sail, should I expect to see you there ?
+Achilles ...
+Narrator Despite the bile rising up your throat you give a small affirming nod.
+SCENE
+Narrator The war had been raging on, with no end in sight. 
+Narrator Even worse was the plague that affected the soldiers. 
+Achilles You have to do something! All this death is because of your actions, king of Mycenae, Agamemnon!
+Achilles You should've given back that girl!
+Agamemnon You're right.
+Agamemnon I'll give back that woman the priest of Apollo wants so bad. 
+Agamemnon But I want your woman.
+Achilles What.
+Agamemnon What was her name? Briseis?  
+Achilles How dare you-?! You dare to lay your hands on my prize?
+Agamemnon Well I can't go without a prize can I now ?
+Achilles ! If you dare touch a hair on her head don't blame me for defending myself!
+Agamemnon You? A warrior and a prince going against me ? A king? If you dare raise your sword against me I'll have the whole army hunting you down !
+Narrator You feel Patroclus grasp your hand, urging you not to continue to provoke him.
+Choice
+Raise your weapon? (1)
+Stand down? (2)
+1 Narrator You reach for your sword hilt, but you freeze as the world greys.
+1 Athena Don't.
+1 Achilles Wha-! 
+1 Achilles O goddess Athena, why have you graced a mortal such as myself with your presence?
+1 Athena Do not draw your weapon.
+1 Achilles O wise Goddess, they mock me so, is it not just to raise my arms to defend my prize
+1 Athena Heed my words demigod, for the son of Atreus will repay all insults towards you a hundred times for your patience and mercy.
+1 Achilles ...
+1 Achilles I shall do as you say, O wise Goddess.
+1 Narrator As your hand releases from the hilt, colour starts returning to the world.
+END BLAH
+Agamemnon Good, my men will come to collect that girl.
+Achilles I will not raise my weapon against you or your men, but know this Agamemnon, king of Mycenae, 
+Achilles I, nor my companion will be stepping into your war anymore.
+Achilles I will not stand in your army even when you beg me back.
+Agamemnon *scoff*
+SCENE
+Achilles So, after this long Agamemnon has finally asked me to rejoin the war?
+Ajax He's being very generous.
+Achilles I have no use for anything that man offers. I told him Hector would storm his army if I leave the war, and now that he's backed into the corner he comes back to me.
+Odysseus Don't throw this away without thinking it through. You only have things to gain.
+Achilles Gain what ? My own death?
+Patroclus Achilles.
+Achilles ...
+Achilles *sigh*
+Achilles Let me tell you both something.
+Achilles My mother has presented me with two fates, one is to fight in this war, killing Hector and winning immeasurable kleos but dying shortly after my win over Hector. The other is to live an obscure life at home, a long boring life.
+Achilles I have no desire for glory, I only long to live a long life.
+Odysseus But-
+Ajax Forget it Odysseus, there is no point in convincing a man to join a war he will not fight.
+Odysseus ...
+SCENE
+Patroclus Achilles..
+Achilles Patroclus! You took longer than normal! I was starting to miss you.
+Patroclus They've made their way to the ships, Achilles.
+Patroclus We won't be able to leave.
+Patroclus They're setting them on fire.
+Achilles They should've known better than insulting me.
+Patroclus We won't be able to go home either without the ships.
+Achilles We aren't part of this war.
+Achilles Why do I care if the Trojans burn them down? We can just wait until the war ends and then go home.
+Patroclus They could hunt us down after the war has concluded.
+Achilles Unlike Agamemnon, Hector has some brains. He dare not come after us.
+Patroclus ...we can't just leave them to die.
+Achilles ...
+Achilles I am not going to fight.
+Achilles I already decided my fate.
+Patroclus What if I go.
+Achilles -! 
+Achilles Absolutely not ??
+Achilles How would getting yourself killed help anyone!
+Patroclus I could wear your armour and pretend to be you, the Trojans are deadly afraid of you. They'll back off just seeing you.
+Patroclus Hector didn't even stray far from his walls when you were in the war.
+Achilles It's too dangerous.
+Patroclus We... we could head home earlier too.
+Patroclus Just long enough to scare off the trojans off the ships.
+Patroclus Then we can leave too.
+Achilles ....
+Achilles I can't lose you
+Patroclus You won't have too.
+Narrator The now young soldier walks up to you, embracing you tightly.
+Patroclus Please. 
+Patroclus I can't watch them just die.
+Patroclus Knowing I could've done something. 
+Achilles ...
+Achilles ...don't make me regret this.
+Narrator You hold him, tightening the embrace.
+Achilles Just the ships. Nothing else.
+Narrator You feel him nod.
+Achilles Under no circumstances can you go after Hector. Promise me that, promise me that and I'll lend you my armour.
+Patroclus I promise.
+SCENE
+Achilles Dead, he was dead.
+Achilles Why why why? 
+Achilles Why would you lend him your armour? For a needless death?
+Narrator The bloody stripped remains of Patroclus body lay in your arms.
+Narrator A scream tore through whatever was left of the battlefield. One you felt from the very depths of your soul.
+Narrator Despite the anguish that tore apart every single part of you. All that remained was a bloody grief ridden scream.
+Narrator You did not know how long you kneeled on the ground, holding your lover's remains, your face streaked with tears, screaming in grief and rage to anyone who could hear. 
+Narrator You knew who had done this. There was only one person who could've.
+Narrator Hector.
+SCENE
+Narrator Hector finally turned around, facing you.
+Hector Achilles.
+Achilles Hector.
+Hector Before our long awaited fight let's talk.
+Achilles I have nothing to say to you.
+Hector But I have things to say to you.
+Achilles ...
+Hector Let's agree to a pact, whoever wins over the other will not desecrate the loser's body.
+Achilles I have no interest in such agreements. Such agreements can only be negotiated between humans.
+Achilles You already made sure nothing human remained of me.
+Hector ...
+SCENE
+Narrator Hector had long died, but he knew no rest. His body dragged through the exterior of Troy walls daily.
+Narrator You couldn't let them bury his body. He didn't deserve that courtesy after ripping away your very soul. 
+Narrator You lay awake, staring at the ceiling of your tent. Sleep was something that escaped you.
+Narrator The ruffling of the tent's walls caused the muscles in your arms to tense.
+Achilles Who's there! Reveal yourself!
+Priam Greetings Achilles, son of Peleus...slayer of Hector.
+Achilles ...
+Achilles King Priam, Hector's father, why would the enemy king come to my tent?
+Priam My son.
+Achilles ...
+Priam He's caused you a great deal of grief, but please. Let me bring him home.
+Achilles He deserves everything I've been giving him!
+Priam Even if you have no pity for my son, pity me, his father. 
+Narrator The old man sinks to his knees.
+Priam The old man who has to kneel and beg the one who murdered his son.
+Narrator Tears streamed down his face.
+Achilles ...
+Priam If it had been your own father who came to beg for his son's body, would you not pity him ?
+Narrator Tears welt up in your eyes, thoughts of your father still waiting for your return.
+Achilles ...
+Achilles I lost everything because of him.
+Priam He is my everything.
+Achilles ...you lost everything because of me.
+Priam ...
+Achilles ...
+Achilles Return with his body.
+Achilles The fighting.. it will stop for the next 12 days. For mourning.
+Priam Thank you.
+Achilles ...please, at least have a meal after travelling so far. 
+SCENE
+Narrator You saw the arrow flying towards you. the trajectory beyond anything a mortal would be capable of.  
+Narrator It was directed exactly at your left heel, the only vulnerable part the river of Styx had not strengthened. 
+Narrator Maybe you could dodge, maybe. 
+Choice 
+Try to dodge? (1)
+Let it pierce you? (2)
+1 Narrator Did you honestly want to? Was there any point in fighting fate? 
+END BLAH
+Narrator A death caused by the glorious sun god was an honourable death as any.
+Narrator What did it matter when you had no other to share your life with?
+Narrator You make no move to dodge the arrow.
+Narrator What change did your choices ever bring? 
+Narrator Pain, you thought dully.
+Narrator More painful than a regular arrow. 
+Narrator Poison. 
+Narrator It didn't matter. Nothing did.
+Narrator In the last seconds of your consciousness you wondered if you would be able to see Patroclus down in Hades.
